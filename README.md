@@ -2,3 +2,6 @@
 Using a noun dictionary in "mecab-ipadic"
 
 ## 腹へった
+
+
+##
