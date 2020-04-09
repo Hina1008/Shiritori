@@ -1,2 +1,3 @@
 # Shiritori
-Using a noun dictionary
+Using a noun dictionary in "mecab-ipadic"
+
