@@ -47,7 +47,7 @@ def fin(word):
 #対応表
 word_dict={"ァ":"ア","ィ":"イ","ゥ":"ウ","ェ":"エ","ォ":"オ","ッ":"ツ","ャ":"ヤ","ュ":"ユ","ョ":"ヨ"}
 #read_csv
-df = pd.read_csv("~/Desktop/task/data/mecab-ipadic-2.7.0-20070801/Noun.csv", usecols= [11])
+df = pd.read_csv("data/mecab-ipadic-2.7.0-20070801/Noun.csv", usecols= [11])
 #############ア-ンの配列#############
 Noun = []
 Noun = df.values
