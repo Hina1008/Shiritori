@@ -1,7 +1,7 @@
 # しりとり(日本語対応):Shiritori (japanese only)
-Using a noun dictionary in "mecab-ipadic"
+"mecab-ipadic"という辞書を使います。
 
-## 腹へった
-
-
-##
+## ルール
+1:カタカナで文字を打つこと//
+2:使った単語は再度使用しないこと//
+以上
